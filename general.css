@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "fette-shadow";
+  src: url("Fette\ Bauersche\ Antiqua\ Shadow\ UNZ1.ttf");
+}
+
+@font-face {
+  font-family: "fette";
+  src: url("Fette\ Bauersche\ Antiqua\ UNZ1.ttf");
+}
+
+@font-face {
+  font-family: abril;
+  src: url("AbrilFatface-Regular.otf")
+}

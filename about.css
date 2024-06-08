@@ -1,0 +1,35 @@
+.about-page {
+  background-color: #ffeeaa;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 2%;
+  align-items:center;
+}
+
+.pro-pic {
+  width: 75%;
+  border-radius: 75%;
+}
+
+.about-title {
+  font-family: fette-shadow;
+  color: rgb(0, 21, 185);
+  font-size: 100px;
+  margin: 0;
+  text-align: center;
+}
+
+.about-content {
+  font-family: abril;
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+}
+
+.highlight {
+  font-size: 26px;
+  color: red;
+}
+
+
+

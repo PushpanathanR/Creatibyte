@@ -1,0 +1,42 @@
+.blog-page {
+  background-color: #ffeeaa;
+  padding-bottom: 228px;
+}
+.blog-post {
+  text-align: center;
+  
+}
+.blog-link{
+  color: black;
+  text-decoration: none;
+}
+
+.blog-link:hover {
+  color: rgb(0, 21, 185);
+  font-size: 35px;
+}
+
+.blog-page-title {
+  text-align: center;
+  font-family: fette-shadow;
+  font-size: 80px;
+  color: rgb(0, 21, 185);
+  margin-bottom: 50px;
+}
+
+.blog-button {
+  font-family: abril;
+  font-size: 30px;
+  background-color: #ffbc3a;
+  
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.blog-button:hover {
+  border-color: rgb(0, 21, 185);
+  color: rgb(0, 21, 185);
+  font-size: 35px;
+}
